@@ -12,3 +12,13 @@ The optocouplers will convert the 24Vdc signal comming to an IPX800V4 signal com
 * Rail din case drawing
 
 I have some electrical components in stock, don't hesitate to contact me if you are interested.
+
+# How it looks :
+## PCB :
+![alt text](https://github.com/Neuvidor/IPX800v4_24V_InputAdapter/blob/main/200_Pictures/01_PCB.jpg)
+
+## PCB with components :
+![alt text](https://github.com/Neuvidor/IPX800v4_24V_InputAdapter/blob/main/200_Pictures/03_PCB_In_Box.jpg)
+
+## System assembled :
+![alt text](https://github.com/Neuvidor/IPX800v4_24V_InputAdapter/blob/main/200_Pictures/04_System_Assembled.jpg)
