@@ -1,3 +1,7 @@
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Neuvidor/IPX800v4_24V_InputAdapter?style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/neuvidor/IPX800v4_24V_InputAdapter/total?style=flat-square)
+
 # Purpose :
 * This rail DIN module is recommended for people who wants to use their original 230V command light (push button) on a IPX800V4, X-8R, X-Dimmer.
 
